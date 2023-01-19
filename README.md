@@ -1,5 +1,6 @@
 
-![pngegg (3) (5)](https://user-images.githubusercontent.com/110776571/213451377-71c5eb37-42ed-4b67-941c-0ce42535dfa2.png)
+<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/110776571/213465580-53d2e3d7-017a-4005-acbf-002f4abc177c.png">
+
 
 <h1 align="center">Hi 👋, I'm a software developer from Latvia</h1>
 
