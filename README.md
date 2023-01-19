@@ -3,8 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm a software developer from Latvia</h1>
 
+<h3 align="left">Projects:</h3>
+<p align="justify">
+
 - 🔭 I’m currently working on [eBank](https://github.com/LigaLiepkalne/eBank), a Laravel based project tha will allow for combination of bank account operations and crypto platform features. 
--	:eye_speech_bubble: Check out my last project [CryptoCentral](https://github.com/LigaLiepkalne/CryptoCentral). Its a crypto trading platform developed with PHP, MySql and CSS & Html with Bootstrap.
+-	:eye_speech_bubble: Check out my last project [CryptoCentral](https://github.com/LigaLiepkalne/CryptoCentral). Its a crypto trading platform developed with PHP, MySql and CSS & HTML with Bootstrap.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
