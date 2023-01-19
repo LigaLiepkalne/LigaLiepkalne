@@ -1,7 +1,8 @@
 
 <img align="right" width="340" height="240" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
-<h1 align="center">Hi 👋, I'm a software developer from Latvia</h1>
+<h1 align="center">Hi 👋, I'm Liga</h1>
+<h2 align="center">A software developer from Latvia</h2>
 
 
 <h3 align="left">Projects:</h3>
