@@ -4,13 +4,13 @@
 <h1 align="center">Hi 👋, I'm Liga</h1>
 <h2 align="center">A software developer from Latvia</h2>
 
-I'm a developer with a passion for creating and learning. My experience is primarily in PHP, but I'm always eager to learn new languages and technologies. I am dedicated, communicative, and kind and I would love to work on projects that will help me to grow as a developer.
+<p align="justify">I'm a developer with a passion for creating and learning. My experience is primarily in PHP, but I'm always eager to learn new languages and technologies. I am dedicated, communicative, and kind and I would love to work on projects that will help me to grow as a developer. </p>
 
 <h3 align="left">Projects:</h3>
 <p align="justify">
 
 - 🔭 I’m currently working on [eBank](https://github.com/LigaLiepkalne/eBank), a Laravel based project that will allow for combination of bank account operations and crypto platform features. 
--	:eye_speech_bubble: Check out my last project [CryptoCentral](https://github.com/LigaLiepkalne/CryptoCentral). Its a crypto trading platform developed with PHP, MySql and CSS & HTML with Bootstrap.</p>
+-	:eye_speech_bubble: Check out my last project [CryptoCentral](https://github.com/LigaLiepkalne/CryptoCentral). It's a crypto trading platform developed with PHP, MySQL and CSS & HTML with Bootstrap.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
