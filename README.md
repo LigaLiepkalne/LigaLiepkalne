@@ -1,5 +1,6 @@
 
-<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/110776571/213465580-53d2e3d7-017a-4005-acbf-002f4abc177c.png">
+
+<img align="right" width="350" height="250" src="https://user-images.githubusercontent.com/110776571/213467976-c5e9b213-951e-4430-be84-eb4e9faddcd3.png">
 
 
 <h1 align="center">Hi 👋, I'm a software developer from Latvia</h1>
