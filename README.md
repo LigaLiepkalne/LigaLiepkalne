@@ -1,9 +1,8 @@
 
-
-<img align="right" width="350" height="250" src="https://user-images.githubusercontent.com/110776571/213467976-c5e9b213-951e-4430-be84-eb4e9faddcd3.png">
-
+<img align="right" width="340" height="240" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
 <h1 align="center">Hi 👋, I'm a software developer from Latvia</h1>
+
 
 <h3 align="left">Projects:</h3>
 <p align="justify">
