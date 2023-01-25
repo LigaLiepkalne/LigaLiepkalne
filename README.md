@@ -9,7 +9,7 @@
 <h3 align="left">Projects:</h3>
 <p align="justify">
 
-- 🔭 I’m currently working on [eBank](https://github.com/LigaLiepkalne/eBank), a Laravel based project that will allow for combination of bank account operations and crypto platform features. 
+- 🔭 I’m currently working on [InfinityBank](https://github.com/LigaLiepkalne/eBank), a Laravel based project that will allow for combination of bank account operations and crypto platform features. 
 -	:eye_speech_bubble: Check out my last project [CryptoCentral](https://github.com/LigaLiepkalne/CryptoCentral). It's a crypto trading platform developed with PHP, MySQL and CSS & HTML with Bootstrap.</p>
 
 <h3 align="left">Connect with me:</h3>
