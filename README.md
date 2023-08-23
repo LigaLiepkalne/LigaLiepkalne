@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Liga</h1>
 <h2 align="center">A software developer from Latvia</h2>
 
-<p align="justify">I'm a developer with a passion for creating and learning. My experience is primarily in PHP, but I'm always eager to learn new languages and technologies. I'm dedicated, communicative, and kind and I would love to work on projects that will help me to grow as a developer. </p>
+<p align="justify">I'm a developer with a passion for creating and learning. My experience is primarily in PHP, but I'm always eager to learn new languages and technologies. I would love to work on projects that will help me to grow as a developer. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
