@@ -13,6 +13,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,html,css,bootstrap,js,ts,vue,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,html,css,bootstrap,tailwind,alpinejs,js,ts,vue,git&theme=dark)](https://skillicons.dev)
 
 
